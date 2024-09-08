@@ -197,45 +197,6 @@ This assignment focuses on implementing controllers and kinematic models for a r
 
 ---
 
-## Evaluation and Results
-
-### Homework 1
-
-- **PID Control:** 
-    - Force plots for static and oscillating whiteboard cases.
-    - Screenshots of the Franka arm in both cases.
-
-- **Kinematics:**
-    - Computed FK and IK results with corresponding screenshots.
-
-### Homework 2
-
-- **Collision Detection:**
-    - List of yes/no responses for collision detection tests.
-    - Screenshot of Franka arm's bounding boxes.
-
-- **Motion Planning:**
-    - Videos of RRT and PRM-based motion plans.
-
-### Homework 3
-
-- **Task Planning:** 
-    - Vertices explored and final plan length for Dijkstra and A*.
-
-### Homework 4
-
-- **Q-Learning:** 
-    - Training rewards plot.
-    - Q-values plot.
-    - Videos of random agent and Q agent rollouts.
-
-### Final Project
-
-- **Decluttering and Shelf Stocking:** 
-    - Videos and screenshots of the Franka arm performing decluttering and shelf stocking tasks.
-
----
-
 ## References
 
 1. Sutton, R. S., & Barto, A. G. (2018). *Reinforcement Learning: An Introduction*.
