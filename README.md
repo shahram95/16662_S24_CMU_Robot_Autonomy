@@ -187,6 +187,15 @@ This assignment focuses on implementing controllers and kinematic models for a r
 
 ### 5.3 Results
 
+- **Franka executing a plan output by the PRM:**  
+  [![Franka executing a plan output by the PRM](https://img.youtube.com/vi/mOYhUqjFsEk/0.jpg)](https://youtu.be/mOYhUqjFsEk)
+  
+- **Franka executing a plan output by the RRT with path shortening:**  
+  [![Franka executing a plan output by the RRT with path shortening](https://img.youtube.com/vi/a9AXRxzGooo/0.jpg)](https://youtu.be/a9AXRxzGooo)
+  
+- **Franka executing a plan output by the RRT without path shortening:**  
+  [![Franka executing a plan output by the RRT without path shortening](https://img.youtube.com/vi/YEMGrjSul0k/0.jpg)](https://youtu.be/YEMGrjSul0k)
+
 - **Videos:** Videos of the Franka arm performing decluttering and shelf-stocking tasks.
     - [Watch Video: Decluttering and Shelf-Stocking Task](final_project/Team8a.mp4)
 
