@@ -188,8 +188,8 @@ This assignment focuses on implementing controllers and kinematic models for a r
 ### 5.3 Results
 
 - **Videos:** Videos of the Franka arm performing decluttering and shelf-stocking tasks.
-    - [Link to Video 1: Decluttering Task](#)
-    - [Link to Video 2: Shelf-Stocking Task](#)
+    - [Watch Video: Decluttering and Shelf-Stocking Task](final_project/Team8a.mp4)
+
 
 - **Screenshots:** Include screenshots of the Franka arm during the execution of the tasks.
 
