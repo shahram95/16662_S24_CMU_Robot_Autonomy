@@ -196,6 +196,17 @@ This assignment focuses on implementing controllers and kinematic models for a r
   [![Watch Video: Decluttering and Shelf-Stocking Task](https://img.youtube.com/vi/vBV_uVZ593k/0.jpg)](https://youtu.be/vBV_uVZ593k)
 
 ---
+## 6. CMU Academic Integrity
+
+The contents of this repository are provided for educational purposes and to document my solutions to the assignments for the **Robot Autonomy (16-662)** course at Carnegie Mellon University. Please note the following:
+
+- **Do not copy** any part of this work. The solutions, code, and explanations provided here are my own work, and copying this content for submission in any academic setting is a violation of the Carnegie Mellon University [Academic Integrity Policy](https://www.cmu.edu/policies/student-and-student-life/academic-integrity.html).
+- Sharing, reproducing, or submitting this work as your own in any form is prohibited and may result in severe academic penalties.
+
+Please use this repository responsibly by using it only as a reference for personal learning and understanding the material.
+
+
+---
 
 ## References
 
