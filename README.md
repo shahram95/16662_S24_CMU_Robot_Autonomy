@@ -122,9 +122,14 @@ This assignment focuses on implementing controllers and kinematic models for a r
     - Visualize the generated paths in the MuJoCo simulation.
 
 - **Results:**
-    - **RRT**: Video of the robot executing an RRT-based plan (without path shortening).
-    - **RRT with Path Shortening**: Video of the robot executing a shortened RRT-based plan.
-    - **PRM**: Video of the robot executing a PRM-based plan.
+    - **Franka executing a plan output by the PRM:**  
+  [![Franka executing a plan output by the PRM](https://img.youtube.com/vi/mOYhUqjFsEk/0.jpg)](https://youtu.be/mOYhUqjFsEk)
+  
+- **Franka executing a plan output by the RRT with path shortening:**  
+  [![Franka executing a plan output by the RRT with path shortening](https://img.youtube.com/vi/a9AXRxzGooo/0.jpg)](https://youtu.be/a9AXRxzGooo)
+  
+- **Franka executing a plan output by the RRT without path shortening:**  
+  [![Franka executing a plan output by the RRT without path shortening](https://img.youtube.com/vi/YEMGrjSul0k/0.jpg)](https://youtu.be/YEMGrjSul0k)
 
 ---
 
@@ -187,21 +192,8 @@ This assignment focuses on implementing controllers and kinematic models for a r
 
 ### 5.3 Results
 
-- **Franka executing a plan output by the PRM:**  
-  [![Franka executing a plan output by the PRM](https://img.youtube.com/vi/mOYhUqjFsEk/0.jpg)](https://youtu.be/mOYhUqjFsEk)
-  
-- **Franka executing a plan output by the RRT with path shortening:**  
-  [![Franka executing a plan output by the RRT with path shortening](https://img.youtube.com/vi/a9AXRxzGooo/0.jpg)](https://youtu.be/a9AXRxzGooo)
-  
-- **Franka executing a plan output by the RRT without path shortening:**  
-  [![Franka executing a plan output by the RRT without path shortening](https://img.youtube.com/vi/YEMGrjSul0k/0.jpg)](https://youtu.be/YEMGrjSul0k)
-
 - **Watch Video: Decluttering and Shelf-Stocking Task:**  
   [![Watch Video: Decluttering and Shelf-Stocking Task](https://img.youtube.com/vi/vBV_uVZ593k/0.jpg)](https://youtu.be/vBV_uVZ593k)
-
-
-
-- **Screenshots:** Include screenshots of the Franka arm during the execution of the tasks.
 
 ---
 
